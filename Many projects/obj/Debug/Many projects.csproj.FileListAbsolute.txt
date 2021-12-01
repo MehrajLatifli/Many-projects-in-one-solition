@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\Many projects\Many projects\bin\Debug\Many projects.exe.config
+C:\Users\Lenovo\source\repos\Many projects\Many projects\bin\Debug\Many projects.exe
+C:\Users\Lenovo\source\repos\Many projects\Many projects\bin\Debug\Many projects.pdb
+C:\Users\Lenovo\source\repos\Many projects\Many projects\obj\Debug\Many projects.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Many projects\Many projects\obj\Debug\MainWindow.g.cs
+C:\Users\Lenovo\source\repos\Many projects\Many projects\obj\Debug\App.g.cs
+C:\Users\Lenovo\source\repos\Many projects\Many projects\obj\Debug\Many projects_MarkupCompile.cache
+C:\Users\Lenovo\source\repos\Many projects\Many projects\obj\Debug\Many projects_MarkupCompile.lref
+C:\Users\Lenovo\source\repos\Many projects\Many projects\obj\Debug\MainWindow.baml
+C:\Users\Lenovo\source\repos\Many projects\Many projects\obj\Debug\Many projects.g.resources
+C:\Users\Lenovo\source\repos\Many projects\Many projects\obj\Debug\Many_projects.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\Many projects\Many projects\obj\Debug\Many projects.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Many projects\Many projects\obj\Debug\Many projects.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Many projects\Many projects\obj\Debug\Many projects.exe
+C:\Users\Lenovo\source\repos\Many projects\Many projects\obj\Debug\Many projects.pdb

@@ -1,0 +1,6 @@
+C:\Users\Lenovo\source\repos\Many projects\Many projects 2\bin\Debug\Many projects 2.exe.config
+C:\Users\Lenovo\source\repos\Many projects\Many projects 2\bin\Debug\Many projects 2.exe
+C:\Users\Lenovo\source\repos\Many projects\Many projects 2\bin\Debug\Many projects 2.pdb
+C:\Users\Lenovo\source\repos\Many projects\Many projects 2\obj\Debug\Many projects 2.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Many projects\Many projects 2\obj\Debug\Many projects 2.exe
+C:\Users\Lenovo\source\repos\Many projects\Many projects 2\obj\Debug\Many projects 2.pdb
